@@ -1,0 +1,14 @@
+D:\Project\ReHomeWork4\ReHomeWork4\bin\Debug\netcoreapp3.1\ReHomeWork4.exe
+D:\Project\ReHomeWork4\ReHomeWork4\bin\Debug\netcoreapp3.1\ReHomeWork4.deps.json
+D:\Project\ReHomeWork4\ReHomeWork4\bin\Debug\netcoreapp3.1\ReHomeWork4.runtimeconfig.json
+D:\Project\ReHomeWork4\ReHomeWork4\bin\Debug\netcoreapp3.1\ReHomeWork4.runtimeconfig.dev.json
+D:\Project\ReHomeWork4\ReHomeWork4\bin\Debug\netcoreapp3.1\ReHomeWork4.dll
+D:\Project\ReHomeWork4\ReHomeWork4\bin\Debug\netcoreapp3.1\ReHomeWork4.pdb
+D:\Project\ReHomeWork4\ReHomeWork4\obj\Debug\netcoreapp3.1\ReHomeWork4.csproj.AssemblyReference.cache
+D:\Project\ReHomeWork4\ReHomeWork4\obj\Debug\netcoreapp3.1\ReHomeWork4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project\ReHomeWork4\ReHomeWork4\obj\Debug\netcoreapp3.1\ReHomeWork4.AssemblyInfoInputs.cache
+D:\Project\ReHomeWork4\ReHomeWork4\obj\Debug\netcoreapp3.1\ReHomeWork4.AssemblyInfo.cs
+D:\Project\ReHomeWork4\ReHomeWork4\obj\Debug\netcoreapp3.1\ReHomeWork4.csproj.CoreCompileInputs.cache
+D:\Project\ReHomeWork4\ReHomeWork4\obj\Debug\netcoreapp3.1\ReHomeWork4.dll
+D:\Project\ReHomeWork4\ReHomeWork4\obj\Debug\netcoreapp3.1\ReHomeWork4.pdb
+D:\Project\ReHomeWork4\ReHomeWork4\obj\Debug\netcoreapp3.1\ReHomeWork4.genruntimeconfig.cache
